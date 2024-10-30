@@ -1,0 +1,19 @@
+name: schemas
+id: ari:cloud:compass:6095931c-8137-4ae1-822a-2d7411835fc7:component/9029b47a-062e-4e25-a761-a2c0fc9ebd98/ee59638b-3e5d-467d-9ea2-3711be1f6fff
+description: Public Schemas
+configVersion: 1
+typeId: SERVICE
+ownerId: ari:cloud:identity::team/6fe50e36-8efb-47a6-aab5-ea47bd10ec4e
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/credebl/schemas
+relationships:
+  DEPENDS_ON: []
+labels:
+  - digital-credentials
+  - source:github
+  - w3c
+customFields: null
